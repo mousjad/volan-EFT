@@ -1,4 +1,8 @@
-# volan EFT
+Splash                 |  Main panel
+:---------------------:|:-------------------------:
+![page-1](page-1.png)  |  ![main-1](main-1.png)
+
+# Volant EFT
 
 ## Getting started
 
